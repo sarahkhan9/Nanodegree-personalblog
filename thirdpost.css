@@ -1,0 +1,17 @@
+.thirdpost {
+    color: darkgrey;
+}
+
+a {
+    text-decoration: none;
+}
+li {
+    display: grid;
+    padding: 2%;
+}
+
+.socialsharingsection {
+    display: flex;
+    padding-top: 5%;
+}
+

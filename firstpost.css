@@ -1,0 +1,31 @@
+
+h2 {
+    color: slategrey;
+}
+h3 {
+    color: slategray;
+}
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: darkgrey;
+}
+
+footer {
+    color: darkgray;
+}
+
+.firstpost {
+    color: darkgray;
+}
+
+.secondpost {
+    color: darkgray;
+}
+
+
+
